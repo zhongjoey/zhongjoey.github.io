@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 
+  address: >
     <p>Nationality: China</p>
     <p>Date of Birth: January 1999</p>
     <p>Languages Spoken: Chinese, English</p>
