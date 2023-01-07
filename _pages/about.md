@@ -13,9 +13,9 @@ profile:
     <p>Languages Spoken: Chinese, English</p>
     <p>Email: joeyzhong58@gmail.com</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 I completed my Bachelor of Economics at [Guangdong University of Foreign Studies](https://english.gdufs.edu.cn) studying International Economy and Trade in <b>JUN 2020</b>. I won the <b>Outstanding Student Scholarship</b> and <b>Merit Student</b> for <b>three</b> consecutive academic years.
