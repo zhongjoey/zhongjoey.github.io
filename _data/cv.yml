@@ -1,26 +1,16 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
+- title: Working Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Digital Marketer, Business Analyst
+      institution: [Finger Tango Inc.](https://www.3k.com/aboutUs.html)
+      year: 2021.3-Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Key responsibilities
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - 1. <b>Promoting games:<b/> Using various Chinese media platforms such as Toutiao, Wechat, Baidu, Weibo, and Bilibili to generate leads and build brand awareness. Maximizing profits within a limited budget.(Note:These media are similar to TikTok, WhatsApp, Google, Twitter, and Youtube)
+            - 2. Explore new channels:Research and actively test new online media opportunities that may be beneficial to the business
+            - 3. Data analysis:Tracking data, Monitoring campaigns, and applying findings based on players' behavior. Come up with better data-driven solutions, increase conversions and drive traffic.
+            - 4. System optimization:Providing independent and objective advice on improving the functions and efficiency of the company's IT systems to ultimately achieve business goals or overcome problems.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
