@@ -3,12 +3,12 @@ layout: page
 title: Education
 permalink: /publications/
 description: Guangdong University of Foreign Studies -CHINA    2016-2020  <br>Bachelor of Economics | GAP 3.35/4
-years: [2017, 2019]
+years: [2020, 2018]
 nav: true
 nav_order: 1
 ---
 
-<b>Key courses</b>: Western economics, Accounting, Finance, International Trade, Management
+<b>Key courses</b>: Western economics, Accounting, Finance, International Trade, Management <br>
 <b>Mathematics course</b>: Calculus, Linear Algebra, Probability Theory, Statistics
 
 As an Economics major student, I have taken a range of courses that have prepared me for a career in computer science. In addition to studying <b>Economics</b> and <b>Business Management</b>, I also completed several <b>Math</b> courses. These courses have provided me with a strong foundation in analytical thinking and problem-solving, which are crucial skills in the field of computer science.
