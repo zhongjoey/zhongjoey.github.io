@@ -44,6 +44,11 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+          <!-- 下面是刪除的，恢复后测试 -->
+          {% if page.selected_papers -%}
+            <!-- Selected papers -->
+            {%- include selected_papers.html %}
+          {%- endif %}
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
