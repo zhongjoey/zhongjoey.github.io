@@ -8,10 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><font face="calibri"><b>Nationality</b></font>: China</p>
-    <p><font face="calibri"><b>Date of Birth</b></font>: January 1999</p>
-    <p><font face="calibri"><b>Languages Spoken</b></font>: Chinese, English</p>
-    <p><font face="calibri"><b>Email</b></font>: joeyzhong58@gmail.com</p>
+    <p><font face="calibri"><b>Nationality</b>: China</font></p>
+    <p><font face="calibri"><b>Date of Birth</b>: January 1999</font></p>
+    <p><font face="calibri"><b>Languages Spoken</b>: Chinese, English</font></p>
+    <p><font face="calibri"><b>Email</b>: joeyzhong58@gmail.com</font></p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
