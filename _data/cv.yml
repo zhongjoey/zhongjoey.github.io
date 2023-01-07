@@ -7,10 +7,26 @@
       description:
         - title: <b>Key responsibilities</b>
           contents:
-            - 1. <b>Promoting games</b>:Using various Chinese media platforms such as Toutiao, Wechat, Baidu, Weibo, and Bilibili to <font color="blue">generate leads and build brand awareness.</font> Maximizing profits within a limited budget.(Note:These media are similar to TikTok, WhatsApp, Google, Twitter, and Youtube)
-            - 2. <b>Explore new channels</b>:Research and actively test new online media opportunities that may be beneficial to the business
-            - 3. <b>Data analysis</b>:Tracking data, Monitoring campaigns, and applying findings based on players' behavior. Come up with better data-driven solutions, increase conversions and drive traffic.
-            - 4. <b>System optimization</b>:Providing independent and objective advice on improving the functions and efficiency of the company's IT systems to ultimately achieve business goals or overcome problems.
+            - 1. <b>Promoting games</b>:Using various Chinese media platforms such as Toutiao, Wechat, Baidu, Weibo, and Bilibili to <font color="blue">generate leads and build brand awareness.</font> Maximizing profits within a limited budget.<font size="2" color="gray">(Note:These media are similar to TikTok, WhatsApp, Google, Twitter, and Youtube)</font>
+            - 2. <b>Explore new channels</b>:Research and actively test <font color="blue">new online media opportunities</font> that may be beneficial to the business
+            - 3. <b>Data analysis</b>:Tracking data, Monitoring campaigns, and applying findings based on players' behavior. Come up with better data-driven solutions, <font color="blue">increase conversions and drive traffic</font>.
+            - 4. <b>System optimization</b>:Providing independent and objective advice on <font color="blue">improving the functions and efficiency of the company's IT systems</font> to ultimately achieve business goals or overcome problems.
+        - title: <b>Accomplishments</b>
+          contents:
+            - From scratch, I independently helped my team develop new channels Bilibili and Weibo, and achieved profitability.
+            - Assisted in pushing the game to No. 1 on the Apple Store free game list on the day of its release.
+            - Expanded various new resource channels, brought more users to the game, and achieved profitability. Became a jack-of-all-trades in marketing.
+            - Serve as a "translator" between business and IT. I proposed business requirements, and helped develop the following functions
+            - functions:
+              - 1. Batch ad creation tool
+              - 2. Ad monitoring and alert system
+              - 3. High-quality material recommendation system
+            - These tools greatly improve team efficiency.
+
+
+
+
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
