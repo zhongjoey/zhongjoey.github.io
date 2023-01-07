@@ -3,7 +3,7 @@ layout: page
 title: Education
 permalink: /publications/
 description: Guangdong University of Foreign Studies -CHINA    2016-2020   Bachelor of Economics | GAP 3.35/4
-years: [1967, 1956, 1950, 1935, 1905]
+years: [1967, 1956, 1950, 1935, 1905, 2017, 2019]
 nav: true
 nav_order: 1
 ---
