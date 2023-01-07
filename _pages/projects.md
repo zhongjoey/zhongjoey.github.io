@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education
+title: projects-change
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
